@@ -1,0 +1,121 @@
+:root {
+  --bg: #fdfdfc;
+  --fg: #1c1c1e;
+  --muted: #6b6b70;
+  --accent: #2f5fd0;
+  --border: #e4e4e0;
+  --code-bg: #f2f2ee;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141416;
+    --fg: #e8e8ea;
+    --muted: #9a9aa2;
+    --accent: #7ea2ff;
+    --border: #2a2a2e;
+    --code-bg: #1e1e22;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.7;
+}
+
+.wrap {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header.site {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+  margin-bottom: 40px;
+}
+
+header.site .wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+header.site a.brand {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+header.site nav a {
+  margin-left: 18px;
+  color: var(--muted);
+  text-decoration: none;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+header.site nav a:hover { color: var(--accent); }
+
+a { color: var(--accent); }
+
+h1, h2, h3 { line-height: 1.25; }
+
+.post-list { list-style: none; padding: 0; margin: 0; }
+
+.post-list li { margin-bottom: 32px; }
+
+.post-list a.title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.post-list a.title:hover { color: var(--accent); }
+
+.meta {
+  color: var(--muted);
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+}
+
+.post-list p { margin: 4px 0 0; color: var(--muted); }
+
+article img { max-width: 100%; height: auto; border-radius: 4px; }
+
+pre, code {
+  background: var(--code-bg);
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+code { padding: 2px 5px; }
+pre { padding: 14px; overflow-x: auto; }
+pre code { padding: 0; background: none; }
+
+blockquote {
+  margin: 1.5em 0;
+  padding-left: 18px;
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+}
+
+footer.site {
+  border-top: 1px solid var(--border);
+  margin-top: 64px;
+  padding: 24px 0 48px;
+  color: var(--muted);
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+}
