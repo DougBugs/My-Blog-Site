@@ -1,0 +1,15 @@
+---
+title: '4X Games'
+description: 'A post about my love for strategy games, and the cycle of finding a new thing to attach my brain to.'
+pubDate: '2026-10-09'
+---
+
+I love strategy games. I struggle with pvp as I like *winning* strategy games. That is why I struggle with chess I think. I get phases where I super enjoy chess but I get so angry when I am losing. Typically though chess is only ever your own fault (Especially when you play someone at my elo lol). I think that is why I get so mad at chess. A silly mistake can cost you so much. And winning feels so good.
+
+It can consume a lot of my spare time thinking about getting back to the current game I have saved at home. Age of Empires 2 was my first ever game I ever played. My friends Dad had bought it at a dvd store (Back when they had those) and me and my friend played it at his house on his Windows 7 PC. I quickly asked mum and dad for it but after some time I discovered Skyrim and Minecraft and kind of forgot about strategy games. Civilization 5 was when I truly realised my love for the genre. Holy fuck did I play the shit out of that game. I would spend all day in high school thinking of my next move, run home and boot up my computer. It was this feeling of building something. And I never really got mad at it. It was slow. I had time to think. There was never a single decision that created disaster but multiple small decisions. And each had upsides and downsides (Maybe it is like this in chess and AOE2. I am not that good at them so maybe I just don't critically think well enough playing them idk)
+
+I then discovered Paradox games. 4X strategy. I never really liked RTS as I didn't have the time to think that I did in turn based. BUT THERE'S A PAUSE BUTTON. Oh boy did I pause and think. God that feeling. It rekindled my love for strategy again. Building something. Delivering on a plan. It's like crack to me. I also played a lot of Hearts of Iron 4 and I think I have equal amount of hours in that as EU4. Thousands of hours. Alt history.
+
+I think this entire post was meant to build towards talking about Europa Universalis 5 in some way, but I got a little lost in my love for strategy games there. EU5 was so good when it came out. It rekindled the love again. But it got old so so quickly. The flavour between nations was abysmal. You didn't ever feel like you were playing a new nation. Everything played the same. And every time I come back to it I seem to have that same thought process; "This is crack" > "Ok new game" > "This is the exact same thing as last game". I feel like I am going to be chasing that same feeling I had in high school my entire life. And it slowly feels less and less as I get older. It gets harder to open up these games every year.
+
+I guess this post is about the loss of love for games. And the cycle of finding a new thing to attach my brain to. There's no deeper meaning here than that. Just wanted to talk about my love for 4X games. Time to go open up 1.4 EU5 cos this update is crack.
